@@ -38,7 +38,7 @@ Baixe o arquivo `.exe` na [release oficial mais recente](https://github.com/savi
 2. Execute o arquivo e confirme a solicitação de permissão do Windows.
 3. Informe sua licença válida quando solicitado.
 
-A distribuição atual é um executável direto, sem assistente de instalação. Não é necessário instalar Python. A pasta usada deve permitir a gravação dos arquivos exportados pelo aplicativo.
+A distribuição atual é um executável direto, sem assistente de instalação. Não é necessário instalar nada. A pasta usada deve permitir a gravação dos arquivos exportados pelo aplicativo.
 
 ## Atualizações automáticas
 
