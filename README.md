@@ -4,10 +4,10 @@
 
 **Macros, perfis personalizados e configurações de entrada em uma única interface.**
 
-[![Versão oficial](https://img.shields.io/github/v/release/saviodebug/yoshi-updates?label=vers%C3%A3o&color=9250d2)](https://github.com/saviodebug/yoshi-updates/releases/latest)
+[![Versão oficial](https://img.shields.io/github/v/release/saviodebug/Macro-Yoshi?label=vers%C3%A3o&color=9250d2)](https://github.com/saviodebug/Macro-Yoshi/releases/latest)
 ![Plataforma](https://img.shields.io/badge/plataforma-Windows%20x64-9250d2)
 
-### [↓ Baixar a versão oficial](https://github.com/saviodebug/yoshi-updates/releases/latest)
+### [↓ Baixar a versão oficial](https://github.com/saviodebug/Macro-Yoshi/releases/latest)
 
 </div>
 
@@ -17,7 +17,7 @@ O YOSHI reúne ferramentas de personalização de funções, perfis e controles 
 
 ## Funcionalidades
 
-A versão publicada **1.5.2** inclui:
+A versão estável inclui:
 
 - Configuração de macros de corrida, Auto Aim, Litefoot e No Recoil.
 - Mira visual configurável.
@@ -26,11 +26,9 @@ A versão publicada **1.5.2** inclui:
 - Editor de scripts Lua, com validação, importação e exportação.
 - Atualizações pelo aplicativo com verificação do manifesto e do arquivo baixado.
 
-**Em desenvolvimento:** central visual de macros, mapeamento visual de dispositivos, diagnóstico de periféricos, monitoramento de eventos/polling e informações de bateria para dispositivos compatíveis. Esses recursos não devem ser presumidos disponíveis na versão 1.5.2.
-
 ## Download
 
-Baixe o arquivo `.exe` na [release oficial mais recente](https://github.com/saviodebug/yoshi-updates/releases/latest). Consulte as notas dessa versão antes de atualizar.
+Baixe o arquivo `.exe` na [release oficial mais recente](https://github.com/saviodebug/Macro-Yoshi/releases/latest). Consulte as notas dessa versão antes de atualizar.
 
 ## Instalação
 
@@ -50,7 +48,7 @@ Versões anteriores à migração para o GitHub podem precisar de uma atualizaç
 
 O atualizador verifica a autenticidade do manifesto com assinatura Ed25519 e a integridade do executável com SHA-256. O executável publicado é compilado; isso não significa criptografia integral nem impede engenharia reversa.
 
-A versão 1.5.2 não possui assinatura Authenticode. A verificação automatizada deste repositório confere os arquivos publicados, sem executar o aplicativo. Novas versões estão sujeitas às verificações e aos bloqueios do processo privado de produção.
+Os executáveis publicados atualmente não possuem assinatura Authenticode. A verificação automatizada deste repositório confere os arquivos publicados, sem executar o aplicativo. Novas versões estão sujeitas às verificações e aos bloqueios do processo privado de produção.
 
 ## Compatibilidade
 
@@ -58,15 +56,13 @@ A versão 1.5.2 não possui assinatura Authenticode. A verificação automatizad
 - Licença válida e conexão para os serviços de ativação e atualização.
 - As funções de macro atuais são voltadas ao MTA e podem depender da janela em primeiro plano e das configurações de entrada.
 
-A telemetria em desenvolvimento depende das interfaces e dos protocolos de cada periférico. A identificação de uma marca ou modelo não garante leitura de bateria ou frequência física de polling.
-
 ## Versões
 
-Consulte o [histórico de releases e suas notas](https://github.com/saviodebug/yoshi-updates/releases).
+Consulte o [histórico de releases e suas notas](https://github.com/saviodebug/Macro-Yoshi/releases).
 
 ## Contato e suporte
 
-Este repositório reúne os [downloads e comunicados de versão oficiais](https://github.com/saviodebug/yoshi-updates/releases). Não há outro canal de suporte divulgado aqui. Nunca publique sua chave de licença ou dados pessoais em locais públicos.
+Este repositório reúne os [downloads e comunicados de versão oficiais](https://github.com/saviodebug/Macro-Yoshi/releases). Não há outro canal de suporte divulgado aqui. Nunca publique sua chave de licença ou dados pessoais em locais públicos.
 
 ## Avisos
 
